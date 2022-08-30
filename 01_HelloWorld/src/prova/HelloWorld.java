@@ -1,6 +1,7 @@
 package prova; 
 
-// commento 1
+// commento 2
+
 public class HelloWorld {
 
 	public static void main(String[] args) {
